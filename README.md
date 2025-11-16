@@ -1,4 +1,4 @@
-### <div align="center">Hi I'm Hesanda Liyanage 👋</div>  
+### <div>Hi I'm Hesanda (Hess) 👋</div>  
   
 
 - Building tuff stuff  

@@ -1,7 +1,7 @@
 ### <div align="center">Hi I'm Hesanda Liyanage 👋</div>  
   
 
-- I’m currently working on Java, Springboot, Game Development, Low Level Programming and front end frameworks.  
+- Building tuff stuff  
   
 
 <br/>  

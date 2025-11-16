@@ -26,8 +26,12 @@
 
 
 <!-- </td><td valign="top" width="0%"> -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HesandaLiyanage&theme=highcontrast&hide_total_contributions=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=HesandaLiyanage&theme=highcontrast&hide_total_contributions=true&hide_longest_streak=true" />
+  </a>
+</div>
 
 
 

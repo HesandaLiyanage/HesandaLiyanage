@@ -1,7 +1,7 @@
 ### <div>Hi I'm Hesanda (Hess) 👋</div>  
   
 
-- Building java stuff  
+- Building stuff  
   
 
 <br/>  

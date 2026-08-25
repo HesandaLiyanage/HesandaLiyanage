@@ -1,4 +1,4 @@
-### <div>Hi I'm Hesanda (Hess) 👋</div>  
+### <div>Hi I'm Hess ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧ </div>  
   
 
 - Building stuff  
@@ -7,7 +7,7 @@
 <br/>  
 
 
-## My Skill Set  
+## What i know 
 <!-- <table><tr><td valign="top" width="100%"> -->
 
 <div align="center">  
